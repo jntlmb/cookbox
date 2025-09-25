@@ -1,12 +1,38 @@
-# React + Vite
+# 🍳 Cookbox
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cookbox is a web app where you add ingredients and get an AI-generated recipe.  
+Powered by an AI API, it helps you discover creative ways to cook with what you already have.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Setup
+
+```bash
+git clone https://github.com/your-user/cookbox.git
+cd cookbox
+pnpm install
+pnpm dev
+```
+
+---
+
+## Config
+
+Create a .env file with your API key:
+
+```bash
+VITE_HF_ACCESS_TOKEN=your_api_key_here
+```
+
+---
+
+## Stack
+
+- Vite
+- React
+- Tailwind CSS
+- Huggingface AI API
