@@ -6,6 +6,7 @@ Powered by an AI API, it helps you discover creative ways to cook with what you 
 ---
 
 ## Preview
+<img width="1920" height="1080" alt="zen_YefoE2Pqjl" src="https://github.com/user-attachments/assets/aa613e95-4f39-46d1-8270-13fe902c0bd8" />
 
 ---
 
