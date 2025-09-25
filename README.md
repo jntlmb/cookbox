@@ -13,7 +13,7 @@ Powered by an AI API, it helps you discover creative ways to cook with what you 
 ## Setup
 
 ```bash
-git clone https://github.com/your-user/cookbox.git
+git clone https://github.com/jntlmb/cookbox.git
 cd cookbox
 pnpm install
 pnpm dev
